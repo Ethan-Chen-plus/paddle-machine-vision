@@ -1,0 +1,7 @@
+FundusVessels/JPEGImages/169.jpg FundusVessels/Annotations/169.png
+FundusVessels/JPEGImages/153.jpg FundusVessels/Annotations/153.png
+FundusVessels/JPEGImages/78.jpg FundusVessels/Annotations/78.png
+FundusVessels/JPEGImages/198.jpg FundusVessels/Annotations/198.png
+FundusVessels/JPEGImages/110.jpg FundusVessels/Annotations/110.png
+FundusVessels/JPEGImages/59.jpg FundusVessels/Annotations/59.png
+FundusVessels/JPEGImages/14.jpg FundusVessels/Annotations/14.png
